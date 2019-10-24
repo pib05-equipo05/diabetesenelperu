@@ -38,7 +38,13 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 47,
     "versionPublish": "4.11.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
