@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 47,
+    "uniqCompNum": 50,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -596,7 +596,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Cliente Objetivo",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1321,7 +1321,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Problemática",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
